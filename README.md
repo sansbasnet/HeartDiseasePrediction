@@ -18,4 +18,4 @@ Can early detection using factors like cholesterol levels, blood pressure, and a
 - Early detection using these factors can help identify high-risk individuals for timely intervention.  
 
 **Files in this Repository:**  
-- [ FinalProject_sb2732.R] – Full R script with data analysis and modeling.  
+- [R Script] (FinalProject_sb2732.R) – Full R script with data analysis and modeling.  
